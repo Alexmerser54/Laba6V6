@@ -1,0 +1,10 @@
+Z:\Zakaz\Laba6\Laba6\bin\Debug\Laba6.exe.config
+Z:\Zakaz\Laba6\Laba6\bin\Debug\Laba6.exe
+Z:\Zakaz\Laba6\Laba6\bin\Debug\Laba6.pdb
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.Form1.resources
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.csproj.GenerateResource.cache
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.exe
+Z:\Zakaz\Laba6\Laba6\obj\Debug\Laba6.pdb
